@@ -1,0 +1,5 @@
+>>1be7a99c03e6b8135c66c2af341f2d7d94c68899
+
+add javascript support =sha1hex()=> d2c1b3f4e85a4299a098f01bb08d4474dd39551d
+
+ok, I added a basic javascript, including live timestamps, in-place voting buttons, and a settings page
