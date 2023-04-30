@@ -1,0 +1,12 @@
+<!-- enter.template -->
+<form name=formRegisterMember action="/profile.html">
+	<p>
+		Press for membership:
+	</p>
+	<p align=center>
+		<noscript><font color=red>*</font></noscript>
+		<input id=member name=btnRegister type=submit value="Member">
+		<!-- name=btnRegister is used by server when user doesn't have js enabled -->
+	</p>
+</form>
+<!-- / enter.template -->

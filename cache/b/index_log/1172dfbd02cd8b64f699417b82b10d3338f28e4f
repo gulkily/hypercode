@@ -1,0 +1,12 @@
+indexing begins
+file was organized (moved location, changed filename)
+file hash = 1172dfbd02cd8b64f699417b82b10d3338f28e4f
+---
+found token: parent, , c92a191dd70b301102d5505e06ac04a6a9830e26
+finished finding tokens
+tokens found: 1
+token: parent; spacer: ; param = c92a191dd70b301102d5505e06ac04a6a9830e26
+found parent: c92a191dd70b301102d5505e06ac04a6a9830e26
+---
+item timestamp: 1682851478.96110
+applying: parent

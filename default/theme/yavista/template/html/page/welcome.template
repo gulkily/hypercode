@@ -1,0 +1,20 @@
+<!-- welcome.template -->
+
+<center>
+	<font size=5>Welcome to Yavista!</font><br>
+</center>
+
+<p>
+	Yavista is an experimental online social space <br>
+	built using a framework called <b><i>thankyou</i></b>.
+</p>
+
+<p>
+	<b><i>thankyou</i></b> utilizes technologies such as <br>
+	private-public key pairs, hashes, <br>
+	chains, cryptographic signatures, and <br>
+	Merkle trees, to create user-owned, <br>
+	consensual online community spaces.
+</p>
+
+<!-- / welcome.template -->

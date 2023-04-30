@@ -1,0 +1,9 @@
+.dialog {
+	border-radius: 1pt;
+}
+body {
+	background: url('/amber.jpg');
+}
+.dialog .txt {
+	max-width: 30em;
+}

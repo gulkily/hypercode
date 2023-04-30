@@ -1,0 +1,28 @@
+indexing begins
+file hash = c92a191dd70b301102d5505e06ac04a6a9830e26
+---
+found token: cookie, : , 8E6AAE1C3A74A627
+found token: client, : , 6966C8A0528E6104
+found token: received, : , 1682851478
+found token: footer_separator, , 
+found token: computer_please,  , add inbox feature
+finished finding tokens
+tokens found: 5
+token: cookie; spacer: : ; param = 8E6AAE1C3A74A627
+found cookie: 8E6AAE1C3A74A627
+token: client; spacer: : ; param = 6966C8A0528E6104
+found client: 8E6AAE1C3A74A627 (overruled by signature)
+token: received; spacer: : ; param = 1682851478
+token: footer_separator; spacer: ; param = 
+token: computer_please; spacer:  ; param = add inbox feature
+---
+item timestamp: 1682851478.20537
+applying: cookie
+applying: client
+applying: received
+valid: received
+token found: received
+applying: computer_please
+valid: computer_please
+token found: computer_please
+computer, please add inbox feature

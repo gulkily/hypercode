@@ -1,0 +1,22 @@
+indexing begins
+file hash = 552904f5a34358e1c6cc957d4ce8607095c8999e
+---
+found token: cookie, : , B533245EB71B0106
+found token: client, : , 6966C8A0528E6104
+found token: received, : , 1682851444
+found token: footer_separator, , 
+finished finding tokens
+tokens found: 4
+token: cookie; spacer: : ; param = B533245EB71B0106
+found cookie: B533245EB71B0106
+token: client; spacer: : ; param = 6966C8A0528E6104
+found client: B533245EB71B0106 (overruled by signature)
+token: received; spacer: : ; param = 1682851444
+token: footer_separator; spacer: ; param = 
+---
+item timestamp: 1682851444.70139
+applying: cookie
+applying: client
+applying: received
+valid: received
+token found: received

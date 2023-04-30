@@ -1,0 +1,10 @@
+<!-- enter.template -->
+<form name=formRegisterGuest action="/profile.html">
+	<p>
+		Press for guest access:
+	</p>
+	<p align=center>
+		<input id=guest name=btnRegister type=submit value="Guest">
+	</p>
+</form>
+<!-- / enter.template -->

@@ -1,0 +1,22 @@
+<!-- new_box_count.template -->
+<form action=/post.html>
+<label for=boxes>
+    Boxes:
+    <input type=text id=boxes name=boxes size=5>
+</label>
+<br>
+<label for=comment>
+    Comment:
+    <input type=text id=comment name=comment size=20>
+</label>
+<br>
+<input type=submit value=Send>
+</form>
+<p>
+	Please count the number of boxes with bananas.<br>
+	Unopened boxes and ones still having the top layer count as <b>1</b>.<br>
+	Boxes without the top layer of bananas should be counted as half, or <b>0.5</b>.<br>
+	Add them up, and put the number into this form.<br>
+	Thank you!
+</p>
+<!-- / new_box_count.template -->
